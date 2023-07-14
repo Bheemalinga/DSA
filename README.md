@@ -1,5 +1,5 @@
 # DSA
-Linked List
-Stack
-Queue
+Linked List-
+Stack-
+Queue-
 Tree
