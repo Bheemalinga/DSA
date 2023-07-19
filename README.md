@@ -1,5 +1,6 @@
 # DSA
-Linked List-
-Stack-
-Queue-
-Tree
+Linked List - 
+Stack - 
+Queue - 
+Tree - 
+Hash.
